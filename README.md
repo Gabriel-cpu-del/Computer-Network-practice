@@ -1,2 +1,17 @@
 # Computer-Network-practice
-My Computer Science learning repository.
+
+My networking and Linux practice repository for ACT College.
+
+## Topics
+- Linux commands
+- Networking basics
+- DNS
+- IP addressing
+- Routing
+- Practice tasks
+
+## Progress
+- [x] Repository created
+- [ ] Linux commands
+- [ ] Networking exercises
+- [ ] Cisco Packet Tracer labs
