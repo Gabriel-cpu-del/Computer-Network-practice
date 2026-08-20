@@ -15,3 +15,5 @@ My networking and Linux practice repository for ACT College.
 - [ ] Linux commands
 - [ ] Networking exercises
 - [ ] Cisco Packet Tracer labs
+Lets go :)
+
