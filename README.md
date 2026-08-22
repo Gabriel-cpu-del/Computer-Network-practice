@@ -18,4 +18,6 @@ My networking and Linux practice repository for ACT College.
 Lets go :)
 bruh
 
+## Git Practice
 
+This repository is also used to practice Git and GitHub.
