@@ -9,3 +9,5 @@ Example:
 ```bash
 ping google.com
 
+  IP address
+The ip command shows network configuration.
