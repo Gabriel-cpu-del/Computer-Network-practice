@@ -11,3 +11,11 @@ ping google.com
 
   IP address
 The ip command shows network configuration.
+  ## DNS
+
+DNS translates domain names into IP addresses.
+
+Example:
+
+```bash
+nslookup google.com
